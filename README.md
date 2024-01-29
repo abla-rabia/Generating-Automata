@@ -1,1 +1,1 @@
-# Generating-Automaton
+# Generating-Automata
